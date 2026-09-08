@@ -1,7 +1,7 @@
 # Lab 1
 
 **Name:** Simrah Ahmad  
-**Registration Number:** [Your Registration Number]
+**Registration Number:** 544211
 
 ## Task 1
 This program creates an array containing 2, 4, 6, 8, and 10, changes the third element to 7, and displays all the values using a for loop.
