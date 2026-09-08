@@ -1,37 +1,36 @@
 # Lab 1
 
-**Name:** Simrah Ahmad
-**Registration Number:** 544211
+**Name:** Simrah Ahmad  
+**Registration Number:** [Your Registration Number]
+
+## Task 1
+This program creates an array containing 2, 4, 6, 8, and 10, changes the third element to 7, and displays all the values using a for loop.
 
 ## Task 2
-
-This program takes 5 integers from the user, stores them in an array, and calculates their total.
+This program reads five integers into an array, adds them using a second loop, and displays their total.
 
 ## Task 3
+This program creates a Student class with roll number and marks, creates two student objects, displays their values, and then updates the marks of the first student.
 
-This program creates a `Student` class with roll number and marks, creates two objects, displays their information, and then updates the marks of the first student.
+### Task 3 Test Results
+
+**Test 1:**  
+Student 1 had roll number 1 and marks 75, while Student 2 had roll number 2 and marks 90. Both values were displayed correctly.
+
+**Test 2:**  
+Student 1's marks were changed from 75 to 80, and the updated marks were displayed correctly.
+
+**Test 3:**  
+After changing Student 1's marks, Student 2's marks remained 90 because both objects store their data separately.
 
 ## Task 4
+This program reads eight integers into an array and finds the largest and smallest values along with their first-occurrence indices.
 
-This program takes 8 integers in an array and finds the largest and smallest values along with their indices.
+## Task 5
+This program reads eight integers into an array and finds the largest and smallest values along with their first-occurrence indices.
 
-## Task 3 Test Results
+## Task 6
+This program reads six integers into an array and reverses the elements in the same array without using another array.
 
-### Test 1
-
-**Student 1:** Roll Number = 1, Marks = 75
-**Student 2:** Roll Number = 2, Marks = 90
-
-**Result:** Both students' information was displayed correctly.
-
-### Test 2
-
-Student 1's marks were changed from **75 to 80**.
-
-**Result:** The updated marks of Student 1 were displayed correctly.
-
-### Test 3
-
-Student 2 was checked after changing Student 1's marks.
-
-**Result:** Student 2's roll number and marks remained **2 and 90**, showing that changing one object did not affect the other.
+## Task 7
+This program reads ten integers into an array, keeps only the first occurrence of each distinct value at the beginning of the same array, and displays the unique values and their count.
