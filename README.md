@@ -1,7 +1,7 @@
 # Lab 1
 
 **Name:** Simrah Ahmad
-**Registration Number:** [Your Registration Number]
+**Registration Number:** 544211
 
 ## Task 2
 
